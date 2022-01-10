@@ -1,0 +1,12 @@
+cython
+pyliblo
+psutil
+jack-client
+numpy
+pillow
+pexpect
+oyaml
+requests
+websocket
+mutagen
+evdev

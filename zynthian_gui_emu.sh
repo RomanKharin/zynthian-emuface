@@ -13,4 +13,4 @@ export ZYNTHIAN_UI_ENABLE_CURSOR="0"
 export ZYNTHIAN_LOG_LEVEL=10
 
 cd ../zynthian-ui
-exec ./zynthian_gui.py $1
+exec python zynthian_gui.py $1
